@@ -3,7 +3,7 @@
 Purpose
 -------
 
-This is a repo and workflow for a simple ES6/Node.js/Lodash scratchpad. I got tired of writing bits of code in the
+This is a repo and workflow for a simple ES6/Node.js/Lodash scratchpad for Vim. I got tired of writing bits of code in the
 web inspector, since it's really difficult to go back and edit code. I wanted a quick little thing I could open up
 and immediately start writing some ES6 code that also has Lodash available.
 
