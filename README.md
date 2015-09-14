@@ -13,7 +13,7 @@ Installation
 1. Create a file in the root of this directory named `ndebug.js`. This is your scratchpad.
 2. Run `npm install`.
 3. Use Vim.
-4. Install @sjl's [Clam.vim](https://github.com/sjl/clam.vim). Thanks, Steve!
+4. Install [sjl](https://github.com/sjl/)'s [Clam.vim](https://github.com/sjl/clam.vim). Thanks, Steve!
 5. Stick this (or something like it) in your [`.vimrc`](https://github.com/nicksergeant/dotfiles/blob/ac16349a064ad626e37ea4b95c4dac729cf6ed0c/vimrc#L106):
 
 `au BufWritePost ndebug.js execute "normal! :Clam npm run build\<cr>"`
