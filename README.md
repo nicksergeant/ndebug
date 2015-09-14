@@ -22,7 +22,7 @@ Usage
 -----
 
 I map `d` (for "debug") in my [Fish config](https://github.com/nicksergeant/dotfiles/blob/ac16349a064ad626e37ea4b95c4dac729cf6ed0c/config.fish#L148-L150),
-and whenever I save the scratchpad (ndebug.js), a buffer updates with the result of running through Babel/Node. The
+and whenever I save the scratchpad (`ndebug.js`), a buffer updates with the result of running through Babel/Node. The
 buffer remains until I close it, and it'll update each time I save the scratchpad, without losing focus of the
 scratchpad buffer:
 
