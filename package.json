@@ -1,7 +1,7 @@
 {
   "name": "ndebug",
   "version": "1.0.0",
-  "description": "A Node.js scratchpad with Lodash.",
+  "description": "An ES6/Node.js scratchpad with lodash.",
   "main": "index.js",
   "scripts": {
     "build": "babel ndebug.js|node",
