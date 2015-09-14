@@ -1,0 +1,24 @@
+{
+  "name": "ndebug",
+  "version": "1.0.0",
+  "description": "A Node.js scratchpad with Lodash.",
+  "main": "index.js",
+  "scripts": {
+    "build": "babel ndebug.js|node",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicksergeant/ndebug.git"
+  },
+  "author": "Nick Sergeant",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nicksergeant/ndebug/issues"
+  },
+  "homepage": "https://github.com/nicksergeant/ndebug#readme",
+  "dependencies": {
+    "babel": "^5.8.23",
+    "lodash": "^3.10.1"
+  }
+}
